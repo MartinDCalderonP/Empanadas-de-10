@@ -1,0 +1,6 @@
+La temática es libre, pero el sitio deberá poseer 5 páginas.
+Debe tener al menos una página totalmente responsive.
+Deben utilizarse iframes, íconos de FontAwesome y fuentes locales o de Google Fonts.
+Deben utilizarse las etiquetas semánticas de HTML5 de forma correcta y contener un formulario.
+Debe utilizarse al menos una animación en conjunto con una pseudo-clase.
+Puede maquetarse con Flexbox, Grid o Float.
