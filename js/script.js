@@ -2,7 +2,7 @@
 
 // DROPDOWN
 
-function showMobileItems(){
+function toggleMobileItems(){
     let mobileItems = document.getElementsByClassName("nav-item-mobile");
 
     if (mobileItems[0].style.display!=="block") {
